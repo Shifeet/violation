@@ -132,8 +132,8 @@ canvas {
 
 /* Passenger Table */
 .passenger-table {
-    width: 100%;
-    border-spacing: 7px;
+    width: 50%;
+    border-spacing: 10px;
     border-collapse: collapse;
 }
 
